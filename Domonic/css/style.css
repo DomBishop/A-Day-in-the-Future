@@ -177,6 +177,10 @@
   animation: noise-anim-2 3s infinite linear alternate-reverse;
 }
 
+#butty {
+    background-color: black
+}
+
 #one {
     background-color: black;
     padding-top: 220px;
@@ -217,6 +221,10 @@
 #textbreak {
     position:relative;
     top: 500px;
+}
+
+#ending {
+    padding-bottom: 1em;
 }
 
 .container svg {
