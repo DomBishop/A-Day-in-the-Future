@@ -178,7 +178,7 @@
 }
 
 #butty {
-    background-color: black
+    background-color: black;
 }
 
 #one {
@@ -192,6 +192,9 @@
     background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
 }
 
 #three {
@@ -199,13 +202,19 @@
     background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
+}   
 
 #four {
     background-image: url(../images/share%20pic%203%20exp.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
 }
 
 #five {
@@ -213,9 +222,9 @@
     background-position: bottom;
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
-
-#six{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-width: thick;
 }
 
 #textbreak {
